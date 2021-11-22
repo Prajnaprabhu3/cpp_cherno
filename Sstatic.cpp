@@ -1,0 +1,1 @@
+// When static keyword is used, variable or data members or functions can not be modified again. It is allocated for the lifetime of program. Static functions can be called directly by using class name. Static variables are initialized only once. Compiler persist the variable till the end of the program.
